@@ -5,7 +5,7 @@ import React from "react";
 import styles from "./App.module.css";
 import { Cards, Chart, CountryPicker } from "./components";
 import { fetchData } from "./api";
-import coronaimage from "./images/image2.png";
+import coronaimage from "./images/covidimg.png";
 //
 //
 
